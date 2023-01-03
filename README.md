@@ -4,8 +4,8 @@ ZeroX is an Roblox Executor Made by ZypherX
 
 # Current Updates
 
-- Added Redirectors
-- Deleted Script Tab
+- Updated Script Web
+- Added Kill Roblox Button
 
 # Download
 
